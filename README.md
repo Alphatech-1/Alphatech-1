@@ -1,8 +1,10 @@
 <h1 align="center">¡Hola, soy Cristhian Alfaro! 👨‍💻</h1>
 <h3 align="center">Desarrollador Web | Frontend & Backend | Fundador de Alphatec 🚀</h3>
+<h4 align="center"><a href="https://porfolio-web-lime.vercel.app/">Mi web 🌐 </a></h4>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5wMG1ubGoyeDZjc3FnNGxodWRqcjBtbXlwdnNtbDUyNjZ5ajk2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 </p>
 
 ---
@@ -46,10 +48,10 @@ Soy **Cristhian Alfaro**, desarrollador web con experiencia en creación de pág
 ### 🌐 Encuéntrame en:
 
 <p>
-  <a href="https://www.linkedin.com/in/cristhian-alfaro/" target="_blank">
+  <a href="https://www.linkedin.com/in/cristhian-alfaro-0930b1351/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Alphatec-1" target="_blank">
+  <a href="https://github.com/Alphatech-1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/alfha7000" target="_blank">
@@ -68,8 +70,8 @@ Soy **Cristhian Alfaro**, desarrollador web con experiencia en creación de pág
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphatec-1&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphatec-1&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphatech-1&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphatech-1&theme=radical" width="48%"/>
 </p>
 
 ---
